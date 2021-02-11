@@ -6,7 +6,7 @@
 
 - 💼 I’m currently working at [@paytrack](https://www.paytrack.com.br/) building platform all-in-one to travel and corporate expense management.
 - 🔭 Techs: Java (Spring), Angular and React.js
-- 📚 I’m currently learning React.js, Vue.js and Flutter
+- 📚 I’m currently learning Vue.js and Flutter
 
 
 
