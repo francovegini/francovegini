@@ -5,8 +5,8 @@
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:francovegini@gmail.com)](mailto:francovegini@gmail.com)
 
 - 💼 I’m currently working at [@paytrack](https://www.paytrack.com.br/) building platform all-in-one to travel and corporate expense management.
-- 🔭 Techs: Java (Spring), Angular and React.js
-- 📚 I’m currently learning Vue.js and Flutter
+- 🔭 Techs: Java (Spring), Angular, React.js and Vue.js
+- 📚 I’m currently learning Flutter
 
 
 
