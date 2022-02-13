@@ -5,7 +5,7 @@
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:francovegini@gmail.com)](mailto:francovegini@gmail.com)
 
 - 💼 I’m currently working at [Velotax](https://www.velotax.com.br/)
-- 🔭 Techs: Java (Spring), Angular, React.js and Vue.js
+- 🔭 Techs: Java (Spring), Node.js, Angular, React.js and Vue.js.
 - 📚 I’m currently learning Flutter
 
 
