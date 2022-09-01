@@ -4,6 +4,7 @@
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/franco-vegini/)](https://www.linkedin.com/in/franco-vegini/)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:francovegini@gmail.com)](mailto:francovegini@gmail.com)
 
+- 💼 I’m currently working at [BRQ Digital Solutions](https://www.brq.com/)
 - 🔭 Techs: Java (Spring), Node.js, Angular, React.js and Vue.js.
 - 📚 I’m currently learning Flutter
 
