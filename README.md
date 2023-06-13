@@ -5,7 +5,7 @@
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:francovegini@gmail.com)](mailto:francovegini@gmail.com)
 
 - 💼 I’m currently working at [Conta Voltz](https://github.com/ContaVoltz)
-- 🔭 Techs: Java (Spring), Node.js, Angular, React.js, Vue.js and AWS.
+- 🔭 Techs: Java (Spring), Node.js, Nest.js, Angular, React.js, Vue.js and AWS.
 - 📚 I’m currently learning Flutter
 
 
