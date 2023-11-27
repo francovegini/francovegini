@@ -1,13 +1,13 @@
 # Franco Vegini :man_technologist:
 
-[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/francovegini)](https://github.com/francovegini)
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/franco-vegini/)](https://www.linkedin.com/in/franco-vegini/)
-[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:francovegini@gmail.com)](mailto:francovegini@gmail.com)
+[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/franco-vegini/)](https://www.linkedin.com/in/franco-vegini/)
+[![GitHub Badge](https://img.shields.io/badge/Github-000?style=for-the-badge&logo=Github&logoColor=white&link=https://github.com/francovegini)](https://github.com/francovegini)
+[![Gmail Badge](https://img.shields.io/badge/Gmail-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:francovegini@gmail.com)](mailto:francovegini@gmail.com)
 
-- 🏢 I'm Tech Lead and Software Engineer with focus in web development.
+- 🏢 I'm Tech Lead and Software Engineer with focus in Web Development.
+- 💻 6+ years of experience in software development
 - 💼 Currently working at [Conta Voltz](https://github.com/ContaVoltz)
-- 🔭 Techs: Java (Spring), Node.js, Nest.js, Angular, React.js, Vue.js and AWS.
-- 📚 I’m currently learning Flutter
+
 
 <br>
 
