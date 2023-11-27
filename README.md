@@ -5,23 +5,23 @@
 [![Gmail Badge](https://img.shields.io/badge/Gmail-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:francovegini@gmail.com)](mailto:francovegini@gmail.com)
 
 - 🏢 I'm Tech Lead and Software Engineer with focus in Web Development.
-- 💻 6+ years of experience in software development
+- 🚀 6+ years of experience in software development
 - 💼 Currently working at [Conta Voltz](https://github.com/ContaVoltz)
 
 
 <br>
 
-**🚀 Technologies & Tools**
+**💻 Technologies & Tools**
 
 ![Java Badge](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=black)
-![Java Badge](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+![Spring Badge](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
 ![Node Badge](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=black)
-![NestJs Badge](https://img.shields.io/badge/NestJs-ea2845?style=for-the-badge&logo=nestjs&logoColor=black)
-![JavaScript Badge](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) 
+![NestJs Badge](https://img.shields.io/badge/NestJs-EA2845?style=for-the-badge&logo=nestjs&logoColor=black)
+![JavaScript Badge](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=white) 
 ![TypeScript Badge](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=black)
  
 
-![React Badge](https://img.shields.io/badge/ReactJs-61DAFB?style=for-the-badge&logo=react&logoColor=white) 
+![React Badge](https://img.shields.io/badge/ReactJs-20232A?style=for-the-badge&logo=react&logoColor=white) 
 ![Vue Badge](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=white)
 ![Angular Badge](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
 
