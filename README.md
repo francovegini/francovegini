@@ -36,7 +36,3 @@
 ![Amazon_Aws Badge](https://img.shields.io/badge/Amazon_aws-232F3E?style=for-the-badge&logo=amazon%20aws&logoColor=white)
 ![GCP Badge](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
 
-<br>
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=francovegini&layout=donut-vertical)
-
