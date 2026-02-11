@@ -5,7 +5,7 @@
 [![Gmail Badge](https://img.shields.io/badge/Gmail-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:francovegini@gmail.com)](mailto:francovegini@gmail.com)
 
 - 🏢 I'm Tech Lead and Software Engineer with focus in Web Development.
-- 🚀 7+ years of experience in software development
+- 🚀 8+ years of experience in software development
 - 💼 Currently working at [Conta Voltz](https://github.com/ContaVoltz)
 
 
