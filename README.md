@@ -1,7 +1,7 @@
 # Franco Vegini :man_technologist:
 
-- 🏢 I'm Tech Lead and Software Engineer with focus in Web Development.
-- 🚀 8+ years of hands-on experience in developing, scaling, architecting, and maintaining large-scale web applications, microservices, and APIs
+- 🚀 8+ years of hands-on experience in developing, scaling, architecting, and maintaining large-scale web applications, microservices, and APIs.
+- 🌎 I'm currently working as an Engineering Manager and Software Engineer.
 
 ## Technologies & Tools
 <div style="display: inline_block">
