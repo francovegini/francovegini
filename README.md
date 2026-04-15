@@ -12,7 +12,16 @@
 <br/>
 
 ## Connect with me
+<p>
+  <a href="https://www.linkedin.com/in/franco-vegini/">
+    <img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" />
+  </a>
 
-[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/franco-vegini/)](https://www.linkedin.com/in/franco-vegini/)
-[![GitHub Badge](https://img.shields.io/badge/Github-000?style=for-the-badge&logo=Github&logoColor=white&link=https://github.com/francovegini)](https://github.com/francovegini)
-[![Gmail Badge](https://img.shields.io/badge/Gmail-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:francovegini@gmail.com)](mailto:francovegini@gmail.com)
+  <a href="https://github.com/francovegini">
+    <img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
+  </a>
+
+  <a href="mailto:francovegini@gmail.com">
+    <img height="30" src="https://cdn-icons-png.flaticon.com/512/732/732200.png" />
+  </a>
+</p>
