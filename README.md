@@ -1,6 +1,6 @@
 # Franco Vegini :man_technologist:
 
-- 🚀 8+ years of hands-on experience in developing, scaling, architecting, and maintaining large-scale web applications, microservices, and APIs.
+- 🚀 9+ years of hands-on experience in developing, scaling, architecting, and maintaining large-scale web applications, microservices, and APIs.
 - 🌲 I’ve been primarily focused in recent years on the financial services sector (particularly in fintech, digital payments, and transactional systems).
 - 🌎 I'm currently working as an Engineering Manager and Software Engineer.
 
